@@ -1,0 +1,1 @@
+Esta Solution é a implementação Miníma de um plugin do CodeSys.
